@@ -1,6 +1,6 @@
 # camunda-keycloak-docker
 
-![GitHub](https://img.shields.io/github/license/bowerta/camunda-keycloak-docker)
+![GitHub](https://img.shields.io/github/license/bowerta/camunda-keycloak-docker) ![Docker Automated build](https://img.shields.io/docker/automated/bowerta/camunda-keycloak-docker) ![Docker Image Version (latest by date)](https://img.shields.io/docker/v/bowerta/camunda-keycloak-docker)
 
 Dockerised Camunda service with Keycloak authentication
 
