@@ -8,6 +8,8 @@ This project runs instances of Postgres, PGadmin, and Camunda.
 
 The [Camunda Platform run](https://docs.camunda.org/manual/latest/user-guide/camunda-bpm-run/) version of the Camunda image is used here, and the [Keycloak Camunda Identity Provider Plugin version 2.0.0](https://github.com/camunda/camunda-bpm-identity-keycloak) is copied into the configurations directory in the build process.
 
+This image is available on Docker Hub at [bowerta/camunda-keycloak-docker](https://hub.docker.com/r/bowerta/camunda-keycloak-docker).
+
 ## Prerequisites
 * Docker
 * A running instance of Keycloak, configured as described [here](https://github.com/camunda/camunda-bpm-identity-keycloak) with
